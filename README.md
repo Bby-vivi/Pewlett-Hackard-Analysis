@@ -4,8 +4,18 @@ The purpose of this analysis was to assist Bobby and the Pewlett Hackard Company
 
 Results: 
 During this analysis we were able to deliver the following CSV files.
-1.	Retirement Titles: This CSV files provide data in regards to birth criteria. The foundation was to pull data of employees born between January 1, 1952 and December 31, 1955 and their titles or multiples titles. 
+1.	Retirement Titles: This CSV file provide data in regards to birth criteria. The foundation was to pull data of employees born between January 1, 1952 and December 31, 1955 and their titles or multiples titles. 
+
 ![retirement_titles](https://user-images.githubusercontent.com/114452770/203663721-def2c86e-3781-4ed6-bbc2-fc379781b8fe.PNG)
 
-2.	Unique Titles: This CSV files cleans-up the data and to void the duplicate entries, because of titles switches.
-3.	![unique_titles](https://user-images.githubusercontent.com/114452770/203664165-65b12878-2d4c-48f5-8418-4802f9d34697.PNG)
+2.	Unique Titles: A cleans-up data to void duplicate entries because of titles switches.
+
+![unique_titles](https://user-images.githubusercontent.com/114452770/203664165-65b12878-2d4c-48f5-8418-4802f9d34697.PNG)
+
+3.	Retiring Titles: Shows the retired titles and count.
+
+![retiring_titles](https://user-images.githubusercontent.com/114452770/203664459-767be39b-1733-48c3-ad60-4436174840a6.PNG)
+
+4.	Mentorship eligibility: A table to display the employees who are eligible to participate in a mentorship program.
+
+![mentorship_eligbilty](https://user-images.githubusercontent.com/114452770/203665028-8c925c64-bf05-43a3-a57d-8682fbc41abf.PNG)
