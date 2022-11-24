@@ -34,6 +34,6 @@ During this analysis we were able to deliver the following CSV files.
 
 ![mentorship_eligbilty](https://user-images.githubusercontent.com/114452770/203665028-8c925c64-bf05-43a3-a57d-8682fbc41abf.PNG)
 
-## Summary##
+## Summary
 >This analysis was able to provide us what we need to prepare for the future of the company and to provide success. The preparation data is available to use now in order to start a strategic planning now. Also, the visualizing the data can provide a clear picture, showing the retired employees are ready to mentor the next generation to prepare those individuals  for the upcoming challenges. 
 
